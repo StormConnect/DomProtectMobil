@@ -1,0 +1,3 @@
+[1004/090753.914:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: Paramètre incorrect. (0x80070057)
+[1004/090753.914:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1004/090753.914:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
